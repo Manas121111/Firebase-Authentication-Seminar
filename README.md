@@ -23,5 +23,5 @@ Student Records Management System using Firebase.
 Manas Maheshwari
 # Firebase Authentication & Android App Development
 
-## 📄 Seminar Report
+## 📄 Seminar Report Code+ Screenshot
 [Download Report](Seminar_Report.docx)
