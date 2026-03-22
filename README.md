@@ -62,30 +62,13 @@ Firebase-Authentication-Seminar/
 ```
 
 ---
+## 📸 Screenshots
 
-## 📸 Screenshots (To Be Added)
-
-> Add your screenshots in the `/screenshots` folder and link them below
-
-### 🔹 Login Screen
-
-```
-(Add image here)
-```
-
-### 🔹 Signup Screen
-
-```
-(Add image here)
-```
+### 🔹 Application Output
+![Application Output](screenshots/output.png)
 
 ### 🔹 Firebase Console
-
-```
-(Add image here)
-```
-
----
+![Firebase Console](screenshots/firebase-console.png)
 
 ## ⚙️ Setup & Installation Guide
 
@@ -190,31 +173,14 @@ Firebase Authentication is a backend service that helps authenticate users using
 
 ---
 
-## 🧪 Testing (Optional Section)
-
-```
-(Add test cases or results here if available)
-```
-
----
-
 ## 📄 Project Report
 
-```
-(Add your report PDF here)
-Example:
-[Download Report](report/report.pdf)
-```
+[Download Seminar Report](report/Seminar_Report.docx)
 
----
+## 💻 Source Code
 
-## 💻 Code Snippets (Optional)
-
-```
-(Add important code snippets here if needed)
-```
-
----
+- [Download MainActivity.kt](app/MainActivity.kt)
+- [Download activity_main.xml](app/activity_main.xml)
 
 ## 👨‍💻 Author
 
