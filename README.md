@@ -156,59 +156,7 @@ B.Tech CSE | LPU
 This project is for educational purposes only.
 
 
----
 
-# 🔥 WHAT YOU NEED TO DO NOW (IMPORTANT)
-
-### ✅ 1. Add Screenshots Folder
-Create:
-/screenshots
-
-Add images:
-- login.png  
-- signup.png  
-
----
-
-### ✅ 2. Upload Report PDF
-Rename:
-report.pdf
-
-Place in root folder
-
----
-
-### ✅ 3. Replace README
-- Go to GitHub
-- Click `README.md`
-- Edit → Paste this → Commit
-
----
-
-### ✅ 4. Add Topics (VERY IMPORTANT)
-On GitHub repo:
-- Click ⚙️ (Settings)
-- Add:
-firebase-authentication
-android
-firebase
-login-system
-
-
----
-
-# 🏁 FINAL RESULT
-
-After this, your repo will look:
-- 💼 Professional
-- 📊 High scoring
-- 💯 Viva-ready
-- 🔥 Resume-worthy
-
----
-
-## 🚀 If you want NEXT LEVEL upgrade:
-Send me:
 - your actual screenshots  
 - your app features (if extra)  
 
