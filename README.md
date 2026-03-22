@@ -1,35 +1,16 @@
-# Firebase-Authentication-Seminar
-Ca-2 
-# Firebase Authentication & Android App Development
 
-## Overview
-This repository contains my seminar work on Firebase Authentication and Android development.
-
-## Concepts Covered
-- Firebase Authentication
-- Realtime Database
-- CRUD Operations
-- Backend Integration
-
-## Application
-Student Records Management System using Firebase.
-
-## Technologies
-- Kotlin
-- Firebase
-- Android Studio
-
-## Author
-Manas Maheshwari
-# Firebase Authentication & Android App Development
-
-## 📄 Seminar Report Code+ Screenshot
-[Download Report](Seminar_Report.docx)
 
 
 
 
 # 🔐 Firebase Authentication - Seminar Project
+
+
+Ca-2 
+
+
+## 📄 Seminar Report Code+ Screenshot
+[Download Report](Seminar_Report.docx)
 
 This project demonstrates the implementation of **Firebase Authentication** in an Android application. It provides a secure and efficient way to handle user login and registration without managing a custom backend.
 
@@ -156,8 +137,5 @@ B.Tech CSE | LPU
 This project is for educational purposes only.
 
 
-
-- your actual screenshots  
-- your app features (if extra)  
-
-I’ll make it **100% personalized + premium README (top 1%)** 😎
+## 📄 Seminar Report Code+ Screenshot
+[Download Report](Seminar_Report.docx)
