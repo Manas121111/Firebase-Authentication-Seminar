@@ -1,5 +1,7 @@
 # 🔐 Firebase Authentication - Android Seminar Project
 
+> 📌 Academic Seminar Project | Lovely Professional University
+
 An Android application demonstrating the implementation of **Firebase Authentication** using Email and Password login. This project showcases a secure, scalable, and backend-free authentication system designed for modern mobile applications.
 
 ---
