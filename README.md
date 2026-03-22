@@ -137,5 +137,4 @@ B.Tech CSE | LPU
 This project is for educational purposes only.
 
 
-## 📄 Seminar Report Code+ Screenshot
-[Download Report](Seminar_Report.docx)
+
